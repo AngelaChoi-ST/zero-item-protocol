@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 388" role="img" aria-label="검사는 입구에서 한 번, 그 뒤 건물 전체가 보안 구역" font-family="-apple-system, 'Segoe UI', 'Noto Sans KR', 'Noto Sans JP', 'Apple SD Gothic Neo', 'Malgun Gothic', Meiryo, sans-serif">
+<rect width="760" height="388" fill="#FFFFFF"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8A8F98"/></marker></defs>
+<text x="24" y="34" font-size="15" font-weight="600" fill="#1F2937">검사는 입구에서 한 번, 그 뒤 건물 전체가 보안 구역</text>
+<g fill="none" stroke="#8A8F98" stroke-width="1.25"><path d="M174 140H196" marker-end="url(#a)"/><path d="M348 140H370" marker-end="url(#a)"/><path d="M522 140H544" marker-end="url(#a)"/><path d="M641 300V326" marker-end="url(#a)"/><path d="M546 280H447V170" stroke-dasharray="4 4" marker-end="url(#a)"/></g>
+<rect x="24" y="112" width="150" height="56" rx="8" fill="none" stroke="#8A8F98" stroke-width="1.25"/>
+<text x="99" y="136" font-size="13" font-weight="600" text-anchor="middle" fill="#1F2937">보관소</text>
+<text x="99" y="156" font-size="11.5" text-anchor="middle" fill="#6B7280">사물함·번호표 보관</text>
+<rect x="198" y="112" width="150" height="56" rx="8" fill="none" stroke="#8A8F98" stroke-width="1.25"/>
+<text x="273" y="136" font-size="13" font-weight="600" text-anchor="middle" fill="#1F2937">투명백으로 이동</text>
+<text x="273" y="156" font-size="11.5" text-anchor="middle" fill="#6B7280">수험번호 부착</text>
+<rect x="372" y="112" width="150" height="56" rx="8" fill="#2563EB" fill-opacity="0.12" stroke="#2563EB" stroke-width="2"/>
+<text x="447" y="136" font-size="13" font-weight="600" text-anchor="middle" fill="#1F2937">로비 검사</text>
+<text x="447" y="156" font-size="11.5" text-anchor="middle" fill="#1F2937">금속탐지기·X선</text>
+<rect x="546" y="80" width="190" height="220" rx="8" fill="#F1F3F6" stroke="#8A8F98" stroke-width="1.25"/>
+<text x="562" y="102" font-size="13" font-weight="600" fill="#1F2937">보안 구역 (시험 건물)</text>
+<rect x="562" y="116" width="158" height="36" rx="8" fill="#FFFFFF" stroke="#8A8F98" stroke-width="1"/>
+<text x="641" y="138" font-size="13" text-anchor="middle" fill="#1F2937">교실·시험</text>
+<rect x="562" y="164" width="158" height="36" rx="8" fill="#FFFFFF" stroke="#8A8F98" stroke-width="1"/>
+<text x="641" y="186" font-size="13" text-anchor="middle" fill="#1F2937">화장실·점심</text>
+<rect x="562" y="212" width="158" height="36" rx="8" fill="#FFFFFF" stroke="#8A8F98" stroke-width="1"/>
+<text x="641" y="234" font-size="13" text-anchor="middle" fill="#1F2937">무작위 재검사</text>
+<text x="641" y="276" font-size="11.5" text-anchor="middle" fill="#6B7280">안경 표시 불필요</text>
+<text x="455" y="256" font-size="11.5" fill="#6B7280">외출하면 재검사</text>
+<rect x="546" y="328" width="190" height="36" rx="8" fill="none" stroke="#8A8F98" stroke-width="1.25"/>
+<text x="641" y="350" font-size="13" text-anchor="middle" fill="#1F2937">시험 종료 후 퇴장</text>
+</svg>
